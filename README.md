@@ -60,6 +60,11 @@ Zapoznaj się z warunkami licencji dołączonych komponentów oraz ich projektó
 źródłowych.
 
 
+
+#
+# ENG :
+
+
 # SmartDrive Inspector
 
 SmartDrive Inspector is a native GTK application for Linux that presents the
