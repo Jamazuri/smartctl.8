@@ -7,7 +7,7 @@ SmartDrive Inspector to natywna aplikacja GTK dla systemu Linux, która
 przedstawia stan i dane diagnostyczne raportowane przez `smartctl` w czytelnym
 interfejsie graficznym. Obsługuje dyski ATA/SATA, NVMe oraz SCSI/SAS.
 
-English documentation: [README.md](README.md)
+English documentation: DOWN 
 
 ## Funkcje
 
@@ -66,7 +66,7 @@ SmartDrive Inspector is a native GTK application for Linux that presents the
 health and diagnostic data reported by `smartctl` in a clear graphical
 interface. It supports ATA/SATA, NVMe, and SCSI/SAS drives.
 
-Polish documentation: [README.pl.md](README.pl.md)
+Polish documentation: UPP
 
 ## Features
 
